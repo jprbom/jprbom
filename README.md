@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:1e3a8a,75:0f766e,100:14b8a6&text=Prashant%20Bombe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20%7C%20Digital%20Lending%20%7C%20Risk%20Intelligence%20%7C%20Agentic%20Systems&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:1e3a8a,75:0f766e,100:14b8a6&text=Prashant%20Jagtao&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20%7C%20Digital%20Lending%20%7C%20Risk%20Intelligence%20%7C%20Agentic%20Systems&descAlignY=58&descSize=17" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Digital+Transformation+and+Applied+AI+Leader;Building+AI+systems+for+regulated+financial+services;Digital+Lending+%7C+Credit+Risk+%7C+RAG+%7C+Agentic+AI+%7C+MLOps;From+business+problem+to+architecture+to+production-grade+AI+systems" />
 
