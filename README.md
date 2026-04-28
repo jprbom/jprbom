@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:1e3a8a,75:0f766e,100:14b8a6&text=Prashant%20Jagtap&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20%7C%20Digital%20Lending%20%7C%20Risk%20Intelligence%20%7C%20Agentic%20Systems&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,40:1e3a8a,75:0f766e,100:14b8a6&text=Prashant%20Bombe&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20%7C%20Digital%20Lending%20%7C%20Risk%20Intelligence%20%7C%20Agentic%20Systems&descAlignY=58&descSize=17" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Digital+Transformation+and+Applied+AI+Leader;Building+AI+systems+for+regulated+financial+services;Digital+Lending+%7C+Credit+Risk+%7C+RAG+%7C+Agentic+AI+%7C+MLOps;From+business+problem+to+architecture+to+production-grade+AI+systems" />
 
@@ -91,55 +91,85 @@ I think in three layers:
 
 ---
 
-## GitHub as a working lab
+## Original and project-style repositories
 
-This GitHub profile is a working lab for applied AI and digital product engineering. It includes experiments, learning repositories, architecture explorations, agentic AI references, MCP research, LLM tooling, full-stack builds, and BFSI-focused prototypes.
+Only own/project-style repositories are highlighted here. Curated lists, forks, and copied reference repositories are intentionally not showcased.
 
-It is not meant to show one polished product only. It shows the learning curve, architecture thinking, technical exploration, and system-building direction behind enterprise AI adoption.
+| Repository / Workstream | Signal it gives |
+|---|---|
+| [`lensr`](https://github.com/jprbom/lensr) | LLM evaluation, harness thinking, and AI observability direction |
+| [`agentic-inbox`](https://github.com/jprbom/agentic-inbox) | Agentic workflow and inbox automation direction |
+| [`agent-history-protocol`](https://github.com/jprbom/agent-history-protocol) | Memory, traceability, and context handling for agents |
+| [`agentic_security`](https://github.com/jprbom/agentic_security) | Security thinking for agentic systems |
+| [`tradeon-public-diagrams`](https://github.com/jprbom/tradeon-public-diagrams) | Public-safe trading system diagrams and portfolio material |
+| [`autoresearch`](https://github.com/jprbom/autoresearch) | Research automation and AI-assisted exploration direction |
+| [`applied-ml`](https://github.com/jprbom/applied-ml) | Applied ML learning and implementation practice |
+| [`blog`](https://github.com/jprbom/blog) | Public writing, technical notes, and thinking archive |
 
 ---
 
-## Repository map
+## Public-safe private build showcase
 
-| Repository / Theme | Signal it gives |
+Short summaries only. No core code, proprietary diagrams, schemas, prompts, internal workflow logic, API contracts, credentials, deployment details, or confidential assumptions are exposed.
+
+| Private / concept work | Short public-safe description |
 |---|---|
-| `agentic-inbox` | Agentic workflow and inbox automation direction |
-| `agent-history-protocol` | Memory, traceability, and context handling for agents |
-| `awesome-agentic-patterns` | Design patterns for agentic systems |
-| `awesome-llm-apps` | LLM application landscape and reference systems |
-| `awesome-mcp-servers` | Model Context Protocol ecosystem exploration |
-| `ai-engineering-hub` | Applied AI engineering resources and practice direction |
-| `BITS-M.Tech-Software-Engineering` | Academic engineering archive and structured software learning |
-| Private project briefs | Public-safe summaries of selected concept-stage and private builds |
-
----
-
-## Public-safe private build directions
-
-| Project | Public-safe positioning |
-|---|---|
-| Saarthi | AI-assisted guidance layer for complex financial journeys |
-| Journey Bot | Conversational support for assisted digital workflows |
-| Merchant Bot | Merchant-facing AI assistant for sales, inventory, offers, and service workflows |
-| TradeOn | Market workflow and trading-system exploration with risk-first thinking |
+| [Saarthi](showcase/saarthi.md) | AI-assisted guidance layer for complex financial-service journeys |
+| [Journey Bot](showcase/journey-bot.md) | Conversational support for assisted digital workflows |
+| [Merchant Bot](showcase/merchant-bot.md) | Merchant-facing AI assistant for sales, inventory, offers, and service workflows |
+| [TradeOn](showcase/tradeon.md) | Market workflow and trading-system exploration with risk-first thinking |
+| [Lensr](showcase/lensr.md) | LLM evaluation, response inspection, and observability harness direction |
+| [Agentic AI](showcase/agentic-ai.md) | Agent orchestration, memory, approval controls, and enterprise automation patterns |
+| [FlowForge](showcase/flowforge.md) | Enterprise AI-native workflow and low-code builder platform direction |
 | Cadence Flow | Enterprise workflow, productivity, and project intelligence platform direction |
 
-No private code, proprietary diagrams, internal workflow logic, database schemas, credentials, API contracts, or confidential business assumptions are published here.
-
 ---
 
-## GitHub metrics
+## GitHub Actions and workflow visibility
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jprbom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprbom&layout=compact&theme=tokyonight&hide_border=true" />
+[![Contribution Snake](https://github.com/jprbom/jprbom/actions/workflows/snake.yml/badge.svg)](https://github.com/jprbom/jprbom/actions/workflows/snake.yml)
+[![GitHub Metrics](https://github.com/jprbom/jprbom/actions/workflows/metrics.yml/badge.svg)](https://github.com/jprbom/jprbom/actions/workflows/metrics.yml)
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Profile README and repo updates] --> B[GitHub Actions]
+    B --> C[Metrics workflow]
+    B --> D[Contribution snake workflow]
+    C --> E[Metrics SVG]
+    C --> F[Contribution heatmap]
+    D --> G[Contribution animation]
+    E --> H[Profile README]
+    F --> H
+    G --> H
+```
+
+---
+
+## GitHub heatmap and activity visuals
+
+No absolute commit or PR count is shown here because public widgets can undercount private repositories, fork history, older activity, and cross-repository PRs.
+
+<div align="center">
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=jprbom&theme=tokyo-night&hide_border=true&area=true" />
 
 <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jprbom&theme=tokyonight" />
 
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=jprbom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img width="92%" src="https://raw.githubusercontent.com/jprbom/jprbom/main/github-metrics.svg" />
+
+</div>
+
+---
+
+## Contribution heatmap animation
+
+<div align="center">
+
+<img width="92%" src="https://raw.githubusercontent.com/jprbom/jprbom/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
