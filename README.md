@@ -1,166 +1,55 @@
-<div align="center">
+# Prashant Bombe
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e40af,100:06b6d4&text=Prashant%20Bombe&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Digital%20Transformation%20%7C%20AI%20in%20BFSI%20%7C%20Agentic%20Systems%20%7C%20Digital%20Lending&descAlignY=58&descSize=16" width="100%" />
+Digital transformation leader focused on applied AI for financial services.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jprbom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jprbom)
-[![GitHub](https://img.shields.io/badge/GitHub-jprbom-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jprbom)
-[![Focus](https://img.shields.io/badge/Focus-AI%20for%20Digital%20Lending-0f766e?style=for-the-badge)](#current-focus)
+I build and think around systems where lending, risk, operations, compliance, product design, data, and engineering meet. My work is not limited to AI demos. The focus is production-grade platforms that can improve decision quality, reduce operational friction, and create measurable business impact.
 
-</div>
+## What I focus on
 
-## What I build
+- Digital lending platforms and end-to-end customer journeys
+- AI-assisted credit decisioning and risk management
+- Agentic AI for enterprise operations
+- RAG, local LLMs, evaluation, drift monitoring, and observability
+- Workflow automation across business, technology, risk, and operations teams
+- Practical AI adoption in regulated financial environments
 
-I work at the intersection of digital lending, BFSI transformation, applied AI, agentic systems, and production-grade automation.
+## What my GitHub represents
 
-My focus is not only model experimentation. It is turning AI into usable enterprise systems: document intelligence, credit decisioning, risk controls, explainability, auditability, workflow automation, and AI agents that can survive real operational pressure.
+This profile is a working lab for applied AI, agentic systems, BFSI platforms, microservices, automation, and full-stack product engineering.
 
-## Current focus
+I use GitHub to explore how ideas move from concept to architecture, then to prototypes, then to enterprise-ready systems.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Selected repository themes
 
-### Enterprise AI and Agentic Systems
-
-- Agentic AI platforms for BFSI operations
-- Multi-agent workflows for credit, risk, operations, customer care, compliance, and sales
-- RAG pipelines with observability, evaluation, feedback loops, and drift monitoring
-- Local LLM and hybrid cloud architecture for controlled enterprise deployment
-
-</td>
-<td width="50%" valign="top">
-
-### Digital Lending and Risk Intelligence
-
-- AI-assisted credit decisioning and CAM generation
-- Bureau, bank statement, KYC, salary slip, and document intelligence pipelines
-- Explainable AI for underwriting and policy decisions
-- Funnel analytics, conversion improvement, fraud controls, and audit trails
-
-</td>
-</tr>
-</table>
-
-## Technical operating stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,ts,react,nextjs,nodejs,flutter,docker,kubernetes,aws,git,github,linux,mongodb,postgres,supabase,redis,graphql,vscode" />
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### AI / ML / LLM
-
-Python, PyTorch, scikit-learn, NLP, GenAI, RAG, LangChain, LangGraph, local LLMs, Ollama, vector databases, prompt engineering, evaluation harnesses
-
-</td>
-<td width="33%" valign="top">
-
-### Engineering
-
-FastAPI, Flask, React, Next.js, TypeScript, Node.js, Flutter, Docker, Kubernetes, CI/CD, REST APIs, microservices, observability
-
-</td>
-<td width="33%" valign="top">
-
-### BFSI Domain
-
-Digital lending, LOS/LMS journeys, credit bureau parsing, account aggregator flows, KYC, NACH, e-sign, fraud control, underwriting, compliance, auditability
-
-</td>
-</tr>
-</table>
-
-## Selected build directions
-
-| Area | What I am building |
+| Theme | What it shows |
 |---|---|
-| AI credit decisioning | Explainable credit decision and risk management systems for digital lending |
-| Agentic AI for NBFCs | AI agents for credit, operations, risk, customer care, sales, compliance, HR, IT, and collections |
-| RAG and observability | Retrieval pipelines with evaluation, feedback, drift checks, dashboards, and failure analysis |
-| Local LLM systems | Controlled local and hybrid LLM deployments for enterprise use cases |
-| Developer tooling | MCP servers, AI coding workflows, automation harnesses, and AI-assisted engineering systems |
-| Product systems | Web, mobile, and workflow products using modern full-stack architectures |
+| Agentic AI | Multi-agent workflows, AI assistants, automation patterns, and agent orchestration ideas |
+| Digital lending | Lending journeys, credit workflows, document intelligence, risk controls, and auditability |
+| RAG and LLM systems | Retrieval, knowledge-base grounding, evaluation, local models, and observability |
+| Product engineering | Full-stack apps, dashboards, workflow systems, APIs, and deployment patterns |
+| Learning systems | Structured AI/ML, DSA, system design, and software engineering practice |
 
-## Public repositories worth scanning
+## Repositories worth scanning
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- `agentic-inbox` — agentic workflow and inbox automation direction
+- `Agentic-Builder-Platform` — enterprise AI-native low-code platform concept
+- `agent-history-protocol` — agent memory and history protocol exploration
+- `awesome-agentic-patterns` — curated agentic design patterns
+- `awesome-llm-apps` — LLM application reference collection
+- `awesome-mcp-servers` — MCP ecosystem exploration
+- `ai-engineering-hub` — applied AI engineering resources
+- `BITS-M.Tech-Software-Engineering` — academic and engineering work archive
 
-### AI, agents, and LLM systems
+## Operating belief
 
-- [agentic-inbox](https://github.com/jprbom/agentic-inbox)
-- [Agentic-Builder-Platform](https://github.com/jprbom/Agentic-Builder-Platform)
-- [agent-history-protocol](https://github.com/jprbom/agent-history-protocol)
-- [awesome-agentic-patterns](https://github.com/jprbom/awesome-agentic-patterns)
-- [awesome-llm-apps](https://github.com/jprbom/awesome-llm-apps)
-- [awesome-mcp-servers](https://github.com/jprbom/awesome-mcp-servers)
+AI in financial services fails when it stays as a model experiment.
 
-</td>
-<td width="50%" valign="top">
+It works when it is wrapped with governance, explainability, audit trails, exception handling, monitoring, human override, and business ownership.
 
-### Learning, engineering, and applied systems
-
-- [BITS-M.Tech-Software-Engineering](https://github.com/jprbom/BITS-M.Tech-Software-Engineering)
-- [ai-engineering-hub](https://github.com/jprbom/ai-engineering-hub)
-- [applied-ml](https://github.com/jprbom/applied-ml)
-- [best-system-design-resources](https://github.com/jprbom/best-system-design-resources)
-- [Book-Exchange-App](https://github.com/jprbom/Book-Exchange-App)
-- [blog](https://github.com/jprbom/blog)
-
-</td>
-</tr>
-</table>
+The real system is not the model. The real system is the operating layer around the model.
 
 ## GitHub activity
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jprbom&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jprbom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jprbom&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jprbom&theme=tokyonight&hide_border=true" width="75%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jprbom&theme=tokyonight" width="95%" />
-
-</div>
-
-## How I think about AI in financial services
-
-Most AI projects fail because they stop at demos. BFSI systems need more than model accuracy.
-
-They need policy alignment, explainability, exception handling, audit logs, data lineage, monitoring, human override, and measurable business impact.
-
-The real work is not building one model. The real work is building the operating system around the model.
-
-## Practical problem spaces I care about
-
-- Reducing drop-offs in digital loan journeys
-- Automating document-heavy underwriting workflows
-- Making bureau and bank statement analysis cleaner and more explainable
-- Building AI agents that can assist internal teams without hallucinating outside controlled knowledge
-- Connecting AI systems with enterprise workflows, dashboards, logs, and human approvals
-- Creating reusable AI architecture patterns for Indian BFSI
-
-## Profile signals
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jprbom&label=Profile%20views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/jprbom?label=Followers&style=flat&color=0e75b6" />
-<img src="https://img.shields.io/github/stars/jprbom?label=Total%20Stars&style=flat&color=0e75b6" />
-
-</div>
-
----
-
-<div align="center">
-
-Building applied AI systems where product thinking, engineering discipline, and BFSI domain depth meet.
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jprbom&layout=compact&theme=tokyonight&hide_border=true)
