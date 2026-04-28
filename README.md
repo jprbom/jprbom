@@ -105,23 +105,6 @@ These are connector-verified lower-bound indicators from accessible repositories
 
 ---
 
-## Original and project-style repositories
-
-Only own/project-style repositories are highlighted here. Curated lists, forks, and copied reference repositories are intentionally not showcased.
-
-| Repository / Workstream | Signal it gives |
-|---|---|
-| [`lensr`](https://github.com/jprbom/lensr) | LLM evaluation, harness thinking, and AI observability direction |
-| [`agentic-inbox`](https://github.com/jprbom/agentic-inbox) | Agentic workflow and inbox automation direction |
-| [`agent-history-protocol`](https://github.com/jprbom/agent-history-protocol) | Memory, traceability, and context handling for agents |
-| [`agentic_security`](https://github.com/jprbom/agentic_security) | Security thinking for agentic systems |
-| [`tradeon-public-diagrams`](https://github.com/jprbom/tradeon-public-diagrams) | Public-safe trading system diagrams and portfolio material |
-| [`autoresearch`](https://github.com/jprbom/autoresearch) | Research automation and AI-assisted exploration direction |
-| [`applied-ml`](https://github.com/jprbom/applied-ml) | Applied ML learning and implementation practice |
-| [`blog`](https://github.com/jprbom/blog) | Public writing, technical notes, and thinking archive |
-
----
-
 ## Public-safe private build showcase
 
 Short summaries only. No core code, proprietary diagrams, schemas, prompts, internal workflow logic, API contracts, credentials, deployment details, or confidential assumptions are exposed.
@@ -136,30 +119,6 @@ Short summaries only. No core code, proprietary diagrams, schemas, prompts, inte
 | [Agentic AI](showcase/agentic-ai.md) | Agent orchestration, memory, approval controls, and enterprise automation patterns |
 | [FlowForge](showcase/flowforge.md) | Enterprise AI-native workflow and low-code builder platform direction |
 | Cadence Flow | Enterprise workflow, productivity, and project intelligence platform direction |
-
----
-
-## GitHub Actions and workflow visibility
-
-<div align="center">
-
-[![Contribution Snake](https://github.com/jprbom/jprbom/actions/workflows/snake.yml/badge.svg)](https://github.com/jprbom/jprbom/actions/workflows/snake.yml)
-[![GitHub Metrics](https://github.com/jprbom/jprbom/actions/workflows/metrics.yml/badge.svg)](https://github.com/jprbom/jprbom/actions/workflows/metrics.yml)
-
-</div>
-
-```mermaid
-flowchart LR
-    A[Profile README and repo updates] --> B[GitHub Actions]
-    B --> C[Metrics workflow]
-    B --> D[Contribution snake workflow]
-    C --> E[Metrics SVG]
-    C --> F[Contribution heatmap]
-    D --> G[Contribution animation]
-    E --> H[Profile README]
-    F --> H
-    G --> H
-```
 
 ---
 
