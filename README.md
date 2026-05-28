@@ -122,6 +122,21 @@ Short summaries only. No core code, proprietary diagrams, schemas, prompts, inte
 
 ---
 
+## Public UPI AI portfolio repositories
+
+These repositories are public for portfolio review and professional evaluation. They are not open source. Each repo uses a **Proprietary / All Rights Reserved** license, and reuse requires written permission.
+
+| Repository | Short description | License type |
+|---|---|---|
+| [UPI FlowPilot](https://github.com/jprbom/upi-flowpilot) | UPI checkout reliability engine with flow selection, retry intelligence, degradation detection, mock NPCI/UPI responses, and merchant SRE workflows | Proprietary / All Rights Reserved |
+| [Bharat UPI Interdict](https://github.com/jprbom/bharat-upi-interdict) | Pre-settlement mule-network interdiction and fraud investigation copilot with graph-risk scoring, hold simulation, and explainable fraud reason codes | Proprietary / All Rights Reserved |
+| [Cashflow Memory for Bharat](https://github.com/jprbom/cashflow-memory-for-bharat) | Explainable UPI and Account Aggregator-style cashflow memory engine for thin-file merchant credit-readiness and responsible lending workflows | Proprietary / All Rights Reserved |
+| [UPI Guardian Mode](https://github.com/jprbom/upi-guardian-mode) | AI consent firewall for agentic UPI payments with bounded authority, prompt-injection risk checks, step-up decisions, and human-review controls | Proprietary / All Rights Reserved |
+| [UPI Social Proof Ledger](https://github.com/jprbom/upi-social-proof-ledger) | AI verification layer for payment claims, fake UPI screenshots, QR/VPA mismatch, seller trust, and dispute-ready social-commerce proof | Proprietary / All Rights Reserved |
+| [UPI Cognitive Spend Brake](https://github.com/jprbom/upi-cognitive-spend-brake) | Responsible digital-spending friction layer for UPI payment intents, impulse-risk detection, UPI Lite leakage, budget nudges, and self-control rules | Proprietary / All Rights Reserved |
+
+---
+
 ## Live GitHub heatmap
 
 <div align="center">
